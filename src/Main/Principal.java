@@ -23,7 +23,6 @@ public class Principal {
 
 		System.out.println("Modificando este proyecto");
 		int edad = 10;
-		System.out.println("Usted tiene " + edad);
 
 		do {
 			System.out.println("BIENVENIDO AL MENU");
