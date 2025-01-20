@@ -21,6 +21,10 @@ public class Principal {
 
 		LogicaMetodos imp = new LogicaMetodos();
 
+		System.out.println("Modificando este proyecto");
+		int edad = 10;
+		System.out.println("Usted tiene " + edad);
+
 		do {
 			System.out.println("BIENVENIDO AL MENU");
 			System.out.println("1---ALTA");
